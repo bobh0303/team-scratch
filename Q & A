@@ -3,8 +3,12 @@
 When I forked team-scratch, it got put under my context rather than silnrsi context. Presumably that is normal. Some questions:
 
 1) Terminology: What is the thing I got after I clicked the fork button... is it "a fork" or "a branch"
+[HP#3] It is called a fork. Forks can have their own wiki's and their own issue trackers. However, in the way that git handles forks, my understanding is that forks and branches are the same thing...
+[HP#3] Your own repo can have as many branches as you need to. Therefore there is less of a reason to need to fork a project multible times.
 
-1) Can I create a different fork (say for some other purpose) and if so what context will it be on? 
+1) Can I create a different fork (say for some other purpose) and if so what context will it be on?
 A: I can't create another fork (at least not using the web). I'll guess that I could create as many as I wanted on my local machine by specifying different folders.
+[HP#3] In this case I would recomend making a branch rather than a fork.
 
-2) Though the fork I created is on my github context, I'm guessing everyone can see that I have forked it and view my fork -- is that right? 
+2) Though the fork I created is on my github context, I'm guessing everyone can see that I have forked it and view my fork -- is that right?
+[HP#3] Yes that is correct.
